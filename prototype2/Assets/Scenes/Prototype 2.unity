@@ -235,7 +235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   horizontalInput: 0
   speed: 10
-  xRange: 10
+  xRange: 20
   projectilePrefab: {fileID: 7589014848900272064, guid: a5599b8b579e1fb49a4081da00bcac0d, type: 3}
 --- !u!1 &425805626
 GameObject:
@@ -698,6 +698,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 451254, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -18.36
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f3f69bcf5a1514c458ed5c9b96f28e34, type: 3}
 --- !u!850595691 &1818001435
@@ -774,7 +778,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5377613546382300113, guid: 8600659108c2d9d4ca6548ee71dbf290, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 13.02
+      value: 3.75
       objectReference: {fileID: 0}
     - target: {fileID: 5377613546382300113, guid: 8600659108c2d9d4ca6548ee71dbf290, type: 3}
       propertyPath: m_LocalPosition.y
@@ -831,7 +835,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7302995913490944533, guid: 9639536581e1e634582ad11de0ff1ad3, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -14.1
+      value: 3.46
       objectReference: {fileID: 0}
     - target: {fileID: 7302995913490944533, guid: 9639536581e1e634582ad11de0ff1ad3, type: 3}
       propertyPath: m_LocalPosition.y
@@ -888,7 +892,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7510504449385385241, guid: bf0e3715493aa9d49898f4e976af568e, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2.7429397
+      value: 3.42
       objectReference: {fileID: 0}
     - target: {fileID: 7510504449385385241, guid: bf0e3715493aa9d49898f4e976af568e, type: 3}
       propertyPath: m_LocalPosition.y

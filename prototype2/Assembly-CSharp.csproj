@@ -59,8 +59,8 @@
     <Compile Include="Assets\scripts\SpawnManager.cs" />
     <Compile Include="Assets\scripts\moveForward.cs" />
     <Compile Include="Assets\scripts\destroyOutOfBounds.cs" />
-    <Compile Include="Assets\scripts\PlayerController.cs" />
     <Compile Include="Assets\scripts\detectCollision.cs" />
+    <Compile Include="Assets\scripts\PlayerController.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Course Library\_Source_Files\_LICENSE.txt" />
